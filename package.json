@@ -1,0 +1,23 @@
+{
+  "name": "kanguru",
+  "version": "1.0.0",
+  "description": "this is the official website of Kanguru Company.",
+  "homepage": "https://github.com/neginkashani92/kanguru-bootstrap#readme",
+  "bugs": {
+    "url": "https://github.com/neginkashani92/kanguru-bootstrap/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neginkashani92/kanguru-bootstrap.git"
+  },
+  "license": "ISC",
+  "author": "Negin Kashani",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.5"
+  }
+}
