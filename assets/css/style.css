@@ -1,0 +1,31 @@
+body {
+  background-color: #00001a;
+}
+@font-face {
+  font-family: "Arimo-r";
+  src: url("../fonts/Arimo-Regular.ttf");
+}
+@font-face {
+  font-family: "Arimo-b";
+  src: url(../fonts/Arimo-Bold.ttf);
+}
+@font-face {
+  font-family: "Playfair-r";
+  src: url(../fonts/PlayfairDisplay-Regular.ttf);
+}
+@font-face {
+  font-family: "Playfair-b";
+  src: url(../fonts/PlayfairDisplay-Bold.ttf);
+}
+.font-family-arimo-regular {
+  font-family: "Arimo-r";
+}
+.font-family-arimo-bold {
+  font-family: "Arimo-b";
+}
+.font-family-Playfair-regular{
+    font-family: "playfair-r";
+}
+.font-family-Playfair-bold{
+    font-family: "Playfair-b";
+}
